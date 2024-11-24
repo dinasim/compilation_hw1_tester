@@ -1,0 +1,10 @@
+
+// Test Case 4: Error Cases
+/* Uncomment each line separately to test error handling:
+int bad := 32768;    // Integer too large
+int lead := 0123;    // Leading zeros
+string inv := "123"; // Non-letter string
+string unc := "unclosed
+/* unclosed comment
+//$ invalid comment character
+*/

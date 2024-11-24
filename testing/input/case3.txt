@@ -1,0 +1,12 @@
+class EdgeCases {
+    void test() {
+        int zero := 0;
+        string empty := "";
+        int[] arr := new int[5];
+        while (1 < 2) {
+            if (zero = 0) {
+                return;
+            }
+        }
+    }
+}

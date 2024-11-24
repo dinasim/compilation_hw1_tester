@@ -1,0 +1,10 @@
+class MyClass extends BaseClass {
+    void main() {
+        int x := 32767;  // maximum allowed integer
+        string name := "Hello";
+        array[10] numbers;
+        if (x < 5) {
+            return nil;
+        }
+    }
+}

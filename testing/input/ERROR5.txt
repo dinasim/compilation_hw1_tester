@@ -1,0 +1,4 @@
+
+// Test Case 4: Error Cases
+int bad := 32768;    // Integer too large
+
