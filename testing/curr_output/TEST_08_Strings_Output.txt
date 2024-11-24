@@ -1,3 +1,0 @@
-STRING("aaaaa")[1,1]
-STRING("abcdefghijklmnopqrstuvwxyz")[1,9]
-STRING("AaAaAa")[2,1]
